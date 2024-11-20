@@ -1,3 +1,2 @@
-# conflict-test LOCAL
-
+LOCAL
 Welcome to the conflict test repository!
